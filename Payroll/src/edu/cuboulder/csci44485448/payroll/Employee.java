@@ -3,7 +3,7 @@ package edu.cuboulder.csci44485448.payroll;
 public class Employee {
 	
 	private String name;
-	priva te double salary;
+	private double salary;
 	
 	public Employee(String name, double salary) {
 		this.name = name;
